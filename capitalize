@@ -7,6 +7,11 @@
 
 public String capitalize(String string)
     {
+        if(string == null || string.isBlank())
+        {
+            return null;
+        }
+    
         // list of words like "this movie is good" is a list of size 4
         ArrayList<String> sentence; 
         sentence = new ArrayList<>();
