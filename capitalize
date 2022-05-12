@@ -1,5 +1,6 @@
 /**
 * capitalize the first letter of each word in a sentence
+* no streams
 * @author James
 * @version 1
 * @date September 28 2020, BCIT Comp1451 Harrison
